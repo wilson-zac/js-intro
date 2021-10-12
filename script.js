@@ -1,5 +1,6 @@
-var x = 5
-var y = 10 
-var z = 15
+let x = 10
+let y = 25
+ 
 
-console.log(x)
+
+console.log( x * y)
